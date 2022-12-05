@@ -3,6 +3,8 @@
         "JournalTab",
         "JournalPannel",
         "DockablePanel",
-        "JournalPannel2"
+        "JournalPannel2",
+        "dmhub",
+        "gui"
     ]
 }
