@@ -5,6 +5,7 @@
         "DockablePanel",
         "JournalPannel2",
         "dmhub",
-        "gui"
+        "gui",
+        "JournalPanel"
     ]
 }
